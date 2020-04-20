@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Profile UI</string>
+
+    <string name="nameAndSurname">\Tomas Cohen</string>
+    <string name="address">oklahama, usa</string>
+    <string name="followers">\2K</string>
+    <string name="followersTag">followers</string>
+    <string name="confidence">\4</string>
+    <string name="biography">\Best user page sample person!</string>
+    <string name="twitterUsername">\@tomas.cohen</string>
+    <string name="confidenceTag">confıdence</string>
+    <string name="biographyTag">Biography</string>
+    <string name="facebook">tomas.cohen</string>
+    <string name="facebookTag">Facebook</string>
+    <string name="twitterTag">Twitter</string>
+    <string name="instagramTag">Instagram</string>
+    <string name="instagram">tomas.cohen</string>
+
+</resources>
